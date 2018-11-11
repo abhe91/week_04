@@ -1,4 +1,3 @@
-=====> CARA PERTAMA
 function changeVocals (str) {
   var tempStr = '';
   var hurufVokal = 'aieuo';
